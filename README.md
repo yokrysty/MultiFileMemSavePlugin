@@ -1,7 +1,7 @@
 # MultiFileMemSavePlugin
 plugin for Process Hacker 2 to save multiple memory regions in separate files in just a couple of clicks
 
-[DOWNLOAD](/releases/latest)
+[DOWNLOAD](https://github.com/yokrysty/MultiFileMemSavePlugin/releases/latest)
 
 ![](preview_001.jpg)
 <br>
